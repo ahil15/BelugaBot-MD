@@ -89,7 +89,7 @@ global.mess = {
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
-    
+    spoty:  'spoty, également appelé spoty, de son vrai nom Blaise Dave, né le 5 mars 2006 à Port au Prince'
 }
 
 global.limitawal = {
