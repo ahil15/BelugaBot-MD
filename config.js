@@ -26,7 +26,7 @@ global.packname = "Beluga-MD";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/BelugaBot-MD"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
-
+global.Infospoty = "spoty, également appelé spoty, de son vrai nom Blaise Dave, né le 5 mars 2006 à Port au Prince"; //Do bot change.
 
 //
 global.sessionName = "session";                          //Do not change.
